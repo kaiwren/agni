@@ -1,0 +1,1 @@
+require "#{AGNI_ROOT}/lib/agni/core_ext/module/alias_method_chain"
